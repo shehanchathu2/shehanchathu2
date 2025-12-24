@@ -6,12 +6,19 @@
 <h1 align="center">Hey there 👋 I'm Sehan Chathuranga</h1>
 
 <h3 align="center">
-Final-year Computer Science Undergraduate | Full-Stack Developer
+Final-year Computer Science Undergraduate
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=800
+&lines=Inspired+by+Problem+Solving;Full-Stack+Developer;Software+Engineer" />
+</p>
+>
 
 <p align="center">
 Java • Spring Boot • React • Next.js • MERN
 </p>
+
 
 ---
 
@@ -76,32 +83,7 @@ I enjoy designing clean UI/UX, building robust backend systems, and solving real
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </div>
 
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shehanchathu2&show_icons=true&theme=dark&cache_seconds=86400"
-    height="160"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanchathu2&layout=compact&theme=dark&cache_seconds=86400"
-    height="160"
-  />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shehanchathu2&theme=dark" height="160"/>
-</div>
 
 
-
----
 
 <h3 align="center">⭐ Thanks for visiting my profile!</h3>
