@@ -3,7 +3,7 @@
   <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">Hey there 👋 I'm Sehan Chathuranga</h1>
+<h1 align="center">Hey there 👋 I'm Shehan Chathuranga</h1>
 
 <h3 align="center">
 Final-year Computer Science Undergraduate
@@ -38,16 +38,19 @@ Final-year Computer Science Undergraduate
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-I am a motivated final-year Computer Science undergraduate and Full-Stack Developer from Sri Lanka, passionate about building scalable, secure, and user-focused software solutions. I specialize in Java, Spring Boot, React, Next.js, and the MERN stack, with hands-on experience developing full-stack applications and RESTful APIs.
+I am a motivated final-year Computer Science undergraduate and Full-Stack Developer from Sri Lanka, passionate about building scalable, secure, and user-focused software solutions. I specialize in Java, Spring Boot, React, Next.js, and the MERN stack, with hands-on experience in developing full-stack applications and RESTful APIs.
 <br><br>
-I enjoy designing clean UI/UX, building robust backend systems, and solving real-world problems through technology. I am continuously improving my skills in cloud-native development, backend architecture, and modern web technologies.
+I enjoy building robust backend systems, developing scalable full-stack applications, and solving real-world problems through technology. I am continuously improving my skills in cloud-native development, backend architecture, and modern web technologies.
 </p>
 
 <ul>
-  <li>🔭 Currently working on full-stack web applications</li>
-  <li>📚 Learning Docker, AWS Cloud, Spring Security, and advanced backend architecture</li>
-  <li>💻 Interested in scalable systems and clean UI/UX</li>
-  <li>⚡ Exploring new technologies and building real-world projects</li>
+ <p>
+🔭 Currently working on full-stack web applications<br>
+📚 Learning Docker, AWS Cloud, Spring Security, and advanced backend architecture<br>
+🤝 Open to collaborating on React, MERN, or Next.js projects<br>
+⚡ Exploring new technologies and building real-world projects
+</p>
+
 </ul>
 
 ---
