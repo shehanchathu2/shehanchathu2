@@ -10,13 +10,14 @@ Final-year Computer Science Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=800
-&lines=Inspired+by+Problem+Solving;Full-Stack+Developer;Software+Engineer" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1300&color=58A6FF&center=true&vCenter=true&width=820&lines=Inspired+by+Problem+Solving;Full-Stack+Developer;Software+Engineer"
+    alt="Typing SVG"
+  />
 </p>
->
 
 <p align="center">
-Java • Spring Boot • React • Next.js • MERN
+<b>Java</b> • <b>Spring Boot</b> • <b>React</b> • <b>Next.js</b> • <b>MERN</b>
 </p>
 
 
